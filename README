@@ -1,0 +1,4 @@
+Moves all contents of a folder into its parent directory and deletes the 
+empty folder. I found this especially useful after unzipping something to a 
+directory and finding that everything was already in a directory in the zip 
+file.
